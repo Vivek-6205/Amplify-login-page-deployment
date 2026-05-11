@@ -46,14 +46,6 @@ Amplify-login-page-deployment/
 
 ---
 
-## Screenshot
-
-![Project Screenshot](./assets/screenshot.png)
-
-> Add your screenshot inside the `assets` folder and rename it as `screenshot.png`.
-
----
-
 ## How to Run Locally
 
 Clone the repository:
